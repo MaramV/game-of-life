@@ -1,6 +1,7 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
 ## Building the project
+Build [![Build Status](https://dev.azure.com/VijayReddyMaram/DemoProjectForProject/_apis/build/status/MaramV.game-of-life?branchName=master)](https://dev.azure.com/VijayReddyMaram/DemoProjectForProject/_build/latest?definitionId=2&branchName=master)
 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
